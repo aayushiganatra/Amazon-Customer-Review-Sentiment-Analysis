@@ -17,8 +17,8 @@ CSCI-636: Big Data Analytics
  Doing a Sentiment Analysis on the customer reviews with help of a machine learning model and then using Big Data to process large volumes of reviews.
 
 ## Data Source:
- [source](https://s3.amazonaws.com/amazon-reviews-pds/readme.html)
- [source2](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt)
+### [Source README.html](https://s3.amazonaws.com/amazon-reviews-pds/readme.html)
+### [Source Index](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt)
 
 
 ## Procedure
