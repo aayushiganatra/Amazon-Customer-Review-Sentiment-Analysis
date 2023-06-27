@@ -21,9 +21,9 @@ CSCI-636: Big Data Analytics
  [source2](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt)
 
 
-## procedure
+## Procedure
 
-### Step 1: load packages
+### Step 1: Loading packages
 
  ```python
  import pandas as pd
@@ -35,20 +35,17 @@ CSCI-636: Big Data Analytics
  nltk.download('stopwords')
  ```
 
-### Step 2: Preprocess the data
+### Step 2: Preprocessing the data
 
-### Step 3: Fitting simple Classfier model to the training set
- Training in different classifier
- to find the best fitting classifier for this dataset
+### Step 3: Fitting a classfier model to the training set
+ Training in different classifiers to find the best fitting classifier for this dataset,
 
  * [Naive Bayes Classifier](http://www.inf.ed.ac.uk/teaching/courses/inf2b/learnnotes/inf2b-learn-note07-2up.pdf)
  * [Support Vector Machine](https://scikit-learn.org/stable/modules/svm.html#)
  * [K Neighbors Classifier](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html#)
  * Gradient Boosting Classifier
 
-### Step 4: Predicting the Result
-
-### Step 5: Visulization
+### Step 4: Predicting the result
 
 ## Citation:
  * [Learning to Classify Text](https://www.nltk.org/book/ch06.html)
