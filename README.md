@@ -1,25 +1,21 @@
-# CSCI-636
- Big Data Management & Analytics
-
 # Amazon Customer Review Sentiment Analysis
-CSCI-636: Big Data Analytics
 
-## COURSE DESCRIPTION
+## Course CSCI-636: Big Data Analytics
  Organizations today are generating massive amounts of data that are too large and unstructured to fit in relational databases. Organizations and enterprises are turning to massively parallel computing solutions such as Hadoop. The  Apache  Hadoop  platform  allows  for  distributed  processing  of  large  data  sets  across  clusters  of  computers using the map and reduce programming model.  Students will gain an in-depth understanding of how MapReduce and Distributed File Systems work. In addition, they will be able to author Hadoop-based MapReduce applications in Java and use Hadoop subprojects Hive and Pig to build powerful data processing applications.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Amazon Reviews Sentiment Classification
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19J5wT-DyjY-2GjfDerY76WCslpSApy8H?usp=sharing)
+
 ## Problem:
- There are millions of production review on Amazon. Manually analyzing Amazon reviews is extremely time-consuming and inefficient. And it would be an impossible task to find trends or patterns over time.
+Since there are millions of product reviews on Amazon, manually analyzing Amazon reviews is extremely time-consuming and inefficient. It would be an impossible task to find trends or patterns over time.
 
 ## Goal:
  Doing a Sentiment Analysis on the customer reviews with help of a machine learning model and then using Big Data to process large volumes of reviews.
 
-## Data Source:
-### [Source README.html](https://s3.amazonaws.com/amazon-reviews-pds/readme.html)
-### [Source Index](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt)
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Procedure
 
@@ -47,7 +43,7 @@ CSCI-636: Big Data Analytics
 
 ### Step 4: Predicting the result
 
-## Citation:
+### Citation:
  * [Learning to Classify Text](https://www.nltk.org/book/ch06.html)
  * [NLP with Python](https://rpubs.com/pjozefek/669929)
  * [CountVectorizer](https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.CountVectorizer.html)
