@@ -1,11 +1,9 @@
 # Mindful FeedbackX: Analyzing Customer Insights
 
-## Course CSCI-636: Big Data Analytics
+## Amazon Reviews Sentiment Classification
  Organizations today are generating massive amounts of data that are too large and unstructured to fit in relational databases. Organizations and enterprises are turning to massively parallel computing solutions such as Hadoop. The  Apache  Hadoop  platform  allows  for  distributed  processing  of  large  data  sets  across  clusters  of  computers using the map and reduce programming model.  Students will gain an in-depth understanding of how MapReduce and Distributed File Systems work. In addition, they will be able to author Hadoop-based MapReduce applications in Java and use Hadoop subprojects Hive and Pig to build powerful data processing applications.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-## Amazon Reviews Sentiment Classification
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19J5wT-DyjY-2GjfDerY76WCslpSApy8H?usp=sharing)
 
